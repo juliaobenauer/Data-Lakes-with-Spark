@@ -30,7 +30,7 @@ In this project, you'll apply what you've learned on Spark and data lakes to bui
 4. time - timestamps of records in songplays broken down into specific units
     - start_time, hour, day, week, month, year, weekday
 
-### 4. Project Files
+## 4. Project Files
 
 - etl.py: reads data from S3, processes that data using Spark, and writes them back to S3
 - dl.cfg: contains AWS credentials
